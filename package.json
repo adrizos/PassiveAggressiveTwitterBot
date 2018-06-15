@@ -1,0 +1,11 @@
+{
+  "name": "PassAggressiveTwitterBot",
+  "version": "1.0",
+  "description": "Twitter bot that posts random images from directory with random hashtag and copy of origin target users tweet. Listens on target user stream.",
+  "main": "server.js",
+
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "author": "Alex Drizos"
+}
